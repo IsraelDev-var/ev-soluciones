@@ -1,6 +1,6 @@
 # E & V · Soluciones integrales
 
-Sitio estático publicado en Cloudflare Pages. La carpeta que se despliega es `dist/`.
+Sitio estático publicado como Cloudflare Worker (`wrangler.jsonc`), que sirve la carpeta `dist/`. Cada push a `main` se despliega solo.
 
 ## Estructura
 
@@ -25,9 +25,9 @@ pip install pillow
 python scripts/build.py
 ```
 
-Luego haz commit de `src/` y `dist/`. Cloudflare Pages publica `dist/` (sin comando de build).
+Luego haz commit de `src/` y `dist/`. Cloudflare publica `dist/` (sin comando de build).
 
 - Antes del primer despliegue, pon el dominio real en `src/site.json` → `url` (lo usan el canonical, Open Graph y el sitemap).
-- Las URLs son limpias (`/electricidad`, `/tienda`): Cloudflare Pages sirve `electricidad.html` en esa ruta.
+- Las URLs son limpias (`/electricidad`, `/tienda`): Cloudflare sirve `electricidad.html` en esa ruta.
 - Los archivos de `dist/assets/` llevan un hash en el nombre, así que se cachean un año (`_headers`).
-- Vista previa local con URLs limpias: `npx wrangler pages dev dist`.
+- Vista previa local con URLs limpias: `npx wrangler dev`.
