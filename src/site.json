@@ -1,0 +1,42 @@
+{
+ "url": "https://ev-soluciones.pages.dev",
+ "name": "E & V Soluciones Integrales",
+ "legal_name": "Espinosa Vargas Soluciones",
+ "slogan": "Conectamos tu confort",
+ "phone": "+18299704893",
+ "phone_display": "+1 (829) 970-4893",
+ "whatsapp": "18299704893",
+ "instagram": "https://www.instagram.com/espinosavargas.soluciones/",
+ "country": "DO",
+ "locale": "es_DO",
+ "pages": {
+  "index": {
+   "title": "E & V Soluciones Integrales | Electricidad, climatización, ventanas y puertas",
+   "description": "Servicios eléctricos, aire acondicionado, ventanas y puertas y mantenimiento electromecánico para hogares, comercios e industria. Cotiza por WhatsApp."
+  },
+  "electricidad": {
+   "title": "Servicios eléctricos: instalaciones, tableros y fallas | E & V",
+   "description": "Instalaciones eléctricas, diagnóstico de fallas, tableros de distribución, iluminación y protección de voltaje para hogares y negocios. Cotiza con E & V."
+  },
+  "climatizacion": {
+   "title": "Aire acondicionado: instalación y mantenimiento | E & V",
+   "description": "Instalación, mantenimiento preventivo, diagnóstico y reparación de aires acondicionados para tu hogar o negocio. Consulta con E & V por WhatsApp."
+  },
+  "ventanas-y-puertas": {
+   "title": "Ventanas y puertas a medida: fabricación e instalación | E & V",
+   "description": "Fabricación e instalación de ventanas y puertas según tus medidas, apertura y acabados. Envíanos fotos y medidas y te orientamos con la cotización."
+  },
+  "mantenimiento-electromecanico": {
+   "title": "Mantenimiento electromecánico de equipos industriales | E & V",
+   "description": "Diagnóstico, reparación y mantenimiento de equipos industriales y comerciales. Cuéntanos marca, modelo y síntomas para evaluar tu equipo con E & V."
+  },
+  "tienda": {
+   "title": "Tienda: materiales eléctricos, aires y herrajes | E & V",
+   "description": "Consulta iluminación LED, protección eléctrica, aires acondicionados, puertas, herrajes y repuestos electromecánicos. Arma tu consulta y envíala por WhatsApp."
+  },
+  "404": {
+   "title": "Página no encontrada | E & V",
+   "description": "La página que buscas no existe. Vuelve al inicio de E & V Soluciones Integrales."
+  }
+ }
+}

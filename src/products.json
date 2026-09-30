@@ -1,0 +1,58 @@
+{
+ "categories": {
+  "electricidad": "Electricidad",
+  "climatizacion": "Climatización",
+  "ventanas": "Ventanas y puertas",
+  "mantenimiento": "Electromecánica"
+ },
+ "products": [
+  {
+   "category": "electricidad",
+   "name": "Iluminación LED",
+   "subtitle": "Lámparas y luminarias",
+   "description": "Cuéntanos el tipo de espacio, la cantidad y el tipo de iluminación que buscas."
+  },
+  {
+   "category": "electricidad",
+   "name": "Protección eléctrica",
+   "subtitle": "Protectores de voltaje y componentes",
+   "description": "Indica el equipo que quieres proteger y sus datos eléctricos para consultar compatibilidad."
+  },
+  {
+   "category": "climatizacion",
+   "name": "Aires acondicionados",
+   "subtitle": "Equipos para tu espacio",
+   "description": "Consulta por un equipo según las características de tu espacio y si necesitas instalación."
+  },
+  {
+   "category": "climatizacion",
+   "name": "Accesorios de climatización",
+   "subtitle": "Materiales para instalación",
+   "description": "Comparte el modelo del equipo y el accesorio o material que necesitas."
+  },
+  {
+   "category": "ventanas",
+   "name": "Puertas y ventanas",
+   "subtitle": "Soluciones según tu proyecto",
+   "description": "Indica medidas aproximadas, cantidad de piezas y el acabado que buscas."
+  },
+  {
+   "category": "ventanas",
+   "name": "Cerraduras y herrajes",
+   "subtitle": "Componentes para puertas y ventanas",
+   "description": "Consulta por una pieza indicando el tipo de puerta o ventana y, si es posible, su referencia."
+  },
+  {
+   "category": "mantenimiento",
+   "name": "Repuestos electromecánicos",
+   "subtitle": "Piezas para tus equipos",
+   "description": "Comparte la marca, el modelo y la referencia de la pieza para consultar opciones."
+  },
+  {
+   "category": "mantenimiento",
+   "name": "Componentes de control",
+   "subtitle": "Elementos eléctricos para equipos",
+   "description": "Cuéntanos qué componente necesitas y sus especificaciones para revisar compatibilidad."
+  }
+ ]
+}

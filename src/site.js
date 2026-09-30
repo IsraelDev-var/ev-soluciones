@@ -1,5 +1,5 @@
-document.getElementById('year').textContent = new Date().getFullYear();
-document.querySelectorAll('[data-service]').forEach(link => link.addEventListener('click', () => { document.getElementById('service').value = link.dataset.service; }));
+const year = document.getElementById('year');
+if (year) year.textContent = new Date().getFullYear();
 document.getElementById('quote')?.addEventListener('submit', event => {
   event.preventDefault();
   const service = document.getElementById('service').value;

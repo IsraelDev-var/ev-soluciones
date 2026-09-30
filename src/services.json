@@ -1,0 +1,170 @@
+[
+ {
+  "slug": "electricidad",
+  "name": "Servicios eléctricos",
+  "category": "electricidad",
+  "title": "ENERGÍA QUE<br>FUNCIONA CONTIGO.",
+  "intro": "Desde una nueva instalación hasta una falla que necesita atención. Revisamos las necesidades eléctricas de tu hogar, comercio o negocio para definir una solución adecuada.",
+  "items": [
+   {
+    "title": "Instalaciones eléctricas",
+    "text": "Instalación y adecuación de circuitos, tomacorrientes y puntos eléctricos según las necesidades del espacio."
+   },
+   {
+    "title": "Diagnóstico de fallas",
+    "text": "Revisión de interrupciones, conexiones y componentes para identificar el origen de una falla y definir su reparación."
+   },
+   {
+    "title": "Tableros de distribución",
+    "text": "Evaluación e instalación de tableros y sus componentes, considerando las cargas y la distribución de los circuitos."
+   },
+   {
+    "title": "Iluminación",
+    "text": "Instalación y renovación de puntos de luz para interiores y exteriores según el uso de cada área."
+   },
+   {
+    "title": "Protección de voltaje",
+    "text": "Evaluación de soluciones de protección compatibles con los equipos y las condiciones de la instalación."
+   }
+  ],
+  "when": "Si estás remodelando, ampliando tu negocio o necesitas revisar una falla, podemos evaluar tu instalación y conversar sobre el trabajo necesario.",
+  "prepare": "Indícanos el tipo de espacio, qué necesitas instalar o qué falla presenta. Las fotos del área o del equipo pueden ayudarnos a entender la consulta, sin manipular la instalación.",
+  "faqs": [
+   {
+    "q": "¿Pueden revisar una falla antes de cotizar la reparación?",
+    "a": "Sí. El diagnóstico permite definir el alcance del trabajo. Escríbenos para coordinar la evaluación y consultar sus condiciones."
+   },
+   {
+    "q": "¿Los materiales están incluidos?",
+    "a": "Los materiales y la mano de obra se definen en cada cotización. Confirmaremos contigo los componentes necesarios antes de coordinar el trabajo."
+   },
+   {
+    "q": "¿Trabajan en hogares y negocios?",
+    "a": "Atendemos consultas para hogares, comercios y negocios. Comparte la ubicación y los detalles para confirmar la atención de tu proyecto."
+   }
+  ]
+ },
+ {
+  "slug": "climatizacion",
+  "name": "Climatización",
+  "category": "climatizacion",
+  "title": "TU ESPACIO.<br>EL CLIMA IDEAL.",
+  "intro": "Instalación, mantenimiento y reparación de sistemas de aire acondicionado para que tu espacio mantenga el confort que necesitas.",
+  "items": [
+   {
+    "title": "Instalación de equipos",
+    "text": "Revisión de las condiciones del espacio y coordinación de la instalación del aire acondicionado y sus conexiones."
+   },
+   {
+    "title": "Mantenimiento preventivo",
+    "text": "Revisión del sistema y labores de mantenimiento según el estado del equipo, su uso y las recomendaciones del fabricante."
+   },
+   {
+    "title": "Diagnóstico y reparación",
+    "text": "Evaluación de problemas de enfriamiento, funcionamiento, ruidos o drenaje para determinar la intervención necesaria."
+   },
+   {
+    "title": "Revisión de la instalación",
+    "text": "Evaluación de las conexiones, el drenaje y la ubicación del equipo como parte del alcance acordado."
+   }
+  ],
+  "when": "Para instalar un equipo, programar su mantenimiento o revisar cambios en su funcionamiento, empezamos por conocer tu espacio y el sistema que utilizas.",
+  "prepare": "Envíanos la marca y el modelo si los conoces, fotos del equipo, el tamaño aproximado del espacio y una descripción de lo que necesitas.",
+  "faqs": [
+   {
+    "q": "¿Cada cuánto se necesita mantenimiento?",
+    "a": "La frecuencia depende del uso, el ambiente y las recomendaciones del fabricante. Podemos revisar esas condiciones contigo para proponer una periodicidad."
+   },
+   {
+    "q": "¿Puedo consultar por un equipo que ya tengo?",
+    "a": "Sí. Indícanos la marca, el modelo y si necesitas instalación, mantenimiento o diagnóstico."
+   },
+   {
+    "q": "¿Puedo solicitar equipo e instalación?",
+    "a": "Puedes consultar ambos. La disponibilidad del equipo y el alcance de la instalación se confirman por separado en la cotización."
+   }
+  ]
+ },
+ {
+  "slug": "ventanas-y-puertas",
+  "name": "Ventanas y puertas",
+  "category": "ventanas",
+  "title": "ABRE PASO<br>A TU PROYECTO.",
+  "intro": "Fabricación e instalación de ventanas y puertas que responden a las medidas, el uso y los acabados que necesitas para tu espacio.",
+  "items": [
+   {
+    "title": "Fabricación para tu espacio",
+    "text": "Definición de medidas, apertura, materiales y acabados de acuerdo con los requerimientos del proyecto."
+   },
+   {
+    "title": "Instalación de ventanas",
+    "text": "Preparación y colocación según las condiciones del área y las especificaciones acordadas."
+   },
+   {
+    "title": "Instalación de puertas",
+    "text": "Coordinación de medidas, sistema de apertura y componentes para una instalación funcional."
+   },
+   {
+    "title": "Acabados y herrajes",
+    "text": "Selección de detalles de terminación y componentes compatibles con el diseño y el uso previsto."
+   }
+  ],
+  "when": "Para completar una obra, renovar un espacio o reemplazar una puerta o ventana, revisamos las medidas y las condiciones de instalación antes de definir la solución.",
+  "prepare": "Comparte fotos, medidas aproximadas, cantidad de piezas y el tipo de apertura o acabado que tienes en mente. Las medidas finales se confirman antes de fabricar.",
+  "faqs": [
+   {
+    "q": "¿Trabajan con medidas personalizadas?",
+    "a": "La fabricación se define según cada proyecto. Las medidas y especificaciones finales deben confirmarse antes de iniciar el trabajo."
+   },
+   {
+    "q": "¿Puedo elegir los acabados?",
+    "a": "Cuéntanos qué acabado buscas. Revisaremos las opciones y su disponibilidad al preparar la cotización."
+   },
+   {
+    "q": "¿Cuánto tarda la fabricación?",
+    "a": "El plazo depende de las medidas, los materiales, la cantidad de piezas y el alcance. Se confirma al evaluar el proyecto."
+   }
+  ]
+ },
+ {
+  "slug": "mantenimiento-electromecanico",
+  "name": "Mantenimiento electromecánico",
+  "category": "mantenimiento",
+  "title": "TU OPERACIÓN.<br>EN MOVIMIENTO.",
+  "intro": "Diagnóstico y reparación de equipos industriales y comerciales, con una evaluación que permite definir la intervención y los componentes necesarios.",
+  "items": [
+   {
+    "title": "Diagnóstico de equipos",
+    "text": "Revisión del funcionamiento y de los síntomas reportados para identificar las necesidades de intervención."
+   },
+   {
+    "title": "Reparación electromecánica",
+    "text": "Trabajo sobre los componentes eléctricos y mecánicos que formen parte del alcance acordado."
+   },
+   {
+    "title": "Revisión de componentes",
+    "text": "Evaluación de conexiones y componentes asociados al funcionamiento del equipo."
+   },
+   {
+    "title": "Mantenimiento según el uso",
+    "text": "Definición de necesidades de mantenimiento considerando el estado del equipo y las condiciones de operación."
+   }
+  ],
+  "when": "Cuando un equipo presenta fallas, cambios en su funcionamiento o requiere mantenimiento, una evaluación ayuda a definir los próximos pasos.",
+  "prepare": "Indícanos el tipo de equipo, su uso, la marca y el modelo, los síntomas y las intervenciones previas que conozcas. Una foto de la placa de datos puede ayudar.",
+  "faqs": [
+   {
+    "q": "¿Qué equipos pueden evaluar?",
+    "a": "Atendemos consultas sobre equipos industriales y comerciales. Comparte los datos del equipo para confirmar si podemos atenderlo."
+   },
+   {
+    "q": "¿Pueden cotizar sin revisar el equipo?",
+    "a": "Podemos orientar la consulta con los datos que envíes. La reparación y sus costos dependen del diagnóstico y de los componentes necesarios."
+   },
+   {
+    "q": "¿Cómo se consiguen los repuestos?",
+    "a": "Primero se identifica la referencia compatible. La disponibilidad, el costo y el plazo se confirman antes de acordar su uso."
+   }
+  ]
+ }
+]
