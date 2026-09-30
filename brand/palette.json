@@ -1,0 +1,13 @@
+{
+  "brand": "E & V · Soluciones integrales",
+  "approved_on": "2026-09-29",
+  "colors": {
+    "navy": { "hex": "#0D3044", "rgb": [13, 48, 68], "css_token": "--ink" },
+    "orange": { "hex": "#F69724", "rgb": [246, 151, 36], "css_token": "--orange" },
+    "off_white": { "hex": "#FAFBF9", "rgb": [250, 251, 249], "css_token": "--paper" },
+    "light_gray": { "hex": "#C8CED0", "rgb": [200, 206, 208], "css_token": "--line" }
+  },
+  "logo": "dist/assets/ev-symbol-v2.png",
+  "phone": "+1 (829) 970-4893",
+  "instagram": "espinosavargas.soluciones"
+}
