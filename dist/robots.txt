@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://ev-soluciones.pages.dev/sitemap.xml
+Sitemap: https://evsoluciones.com/sitemap.xml
